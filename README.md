@@ -20,6 +20,10 @@ AI-assisted web application delivering intelligent fitness guidance. Built using
 Live: https://prem-kumar-six.vercel.app/  
 Responsive personal portfolio showcasing projects and skills using modern UI practices and Tailwind CSS.
 
+### Arogya Mitra
+Live: https://arogyamm.vercel.app/
+The system converts health information into simple visuals, spoken guidance, and regional languages, ensuring clarity and accessibility for everyone.
+
 ## Current Focus
 - Strengthening DSA and backend fundamentals
 - Building production-ready, deployed applications
