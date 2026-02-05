@@ -1,3 +1,5 @@
+Building AI-powered and real-world web applications that solve meaningful problems.
+
 # Prem Kumar Eslavath
 
 CSE (AI & ML) Student | Aspiring Software Engineer  
