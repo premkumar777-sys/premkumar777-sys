@@ -6,9 +6,12 @@ Focused on clean code, practical deployment, and continuous learning through han
 
 🌐 Connect With Me
 Portfolio: https://prem-kumar-six.vercel.app/
+
 GitHub: https://github.com/premkumar777-sys
-Email: 24r01a05d7@cmrithyderabad.gmail.com
-LinkedIn: (add your LinkedIn link here)
+
+Email: 24r01a66t7@cmrithyderabad.edu.in
+
+LinkedIn:https://www.linkedin.com/in/prem-kumar-eslavath-bb8013328/
 
 
 🚀 Featured Projects
@@ -26,12 +29,14 @@ Fully responsive design
 Production-ready deployment
 Live: https://prem-kumar-six.vercel.app/
 
+
 🔹 Arogya Mitra
 Health-information system converting medical data into simple visuals and spoken guidance.
 Focus on accessibility and clarity
 Regional language support
 Clean user-focused design
 Live: https://arogyamitra.vercel.app/
+
 
 🛠 Technical Skills
 Languages: Java, Python, C, JavaScript
@@ -46,10 +51,12 @@ Backend development fundamentals
 Machine Learning core concepts
 Building production-ready deployed applications
 
+
 📈 GitHub Activity
 400+ contributions in the last year
 Consistently building and deploying real projects
 Actively improving coding and system design skills
+
 
 🎯 Career Objective
 Seeking internship opportunities in Software Engineering, AI, or Web Development
