@@ -71,7 +71,8 @@ AI-assisted fitness guidance web app delivering personalized workout insights.
 ✔ Clean responsive UI
 ✔ Intelligent guidance logic
 ✔ Fully deployed on cloud
-🔗 Live: https://smart-fit-ai-kappa.vercel.app/
+🔗 Live: https://smartfitai.in
+
 
 
 🔹 Portfolio Website
